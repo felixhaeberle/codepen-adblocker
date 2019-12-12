@@ -1,12 +1,10 @@
 # CodePen Adblocker
 	
 Removes the ads from CodePen free plan accounts. 🚀
+Feel free to star the repository! 🌟
 
-## Introduction
+### Introduction
 PS: I can highly recommend getting a PRO Account on CodePen because trying quick snippets has never been easier! I created this extension because I often stumble over CodePen not logged in and then the advertising sometimes harms the experience. This repository isn't planned to get regular updates but feel free to submit pull request or issues. Happy coding! ⌨️🎉
 
-## 🌟Feel free to star the repository
-https://github.com/felixhaeberle/codepen-adblocker
-
-## 🐦Follow me on Twitter for more Updates
+### 🐦Follow me on Twitter for more updates
 https://twitter.com/felix_haeberle
