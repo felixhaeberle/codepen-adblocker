@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "CodePen Adblocker",
+  "version": "1.0.1",
+
+  "description": "Removes the ads from CodePen free plan accounts",
+  "short_name": "CodePen Adblocker",
+  "permissions": ["activeTab", "declarativeContent", "tabs"],
+
+  "content_scripts": [
+    {
+      "matches": ["https://codepen.io/*"],
+      "css": ["override.css"]
+    }
+  ],
+
+  "page_action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png"
+    }
+  }
+}
