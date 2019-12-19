@@ -2,7 +2,7 @@
 	
 Removes the ads from CodePen free plan accounts. 🚀
 
-Chrome: follows after review of Google<br>
+Chrome: https://chrome.google.com/webstore/detail/codepen-adblocker/efbdalghhgipgcipnepakbioacdacaaj<br>
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/codepen-adblocker/
 
 ![codepen io_](https://user-images.githubusercontent.com/34959078/70711127-08dad580-1ce1-11ea-9587-b65523d727bb.png)
